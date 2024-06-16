@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend Techniques**
 
-- 👨‍💻 All of my projects are available at [https://3d-portfolio-jitzk07.netlify.app/]
+- 👨‍💻 All of my projects are available at https://3d-portfolio-jitzk07.netlify.app/
 
 - 💬 Ask me about **REACT.js**
 
