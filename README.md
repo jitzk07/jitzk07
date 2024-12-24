@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Backend Techniques**
 
-- 👨‍💻 All of my projects are available at https://3d-portfolio-jitzk07.netlify.app/
+- 👨‍💻 All of my projects are available at https://jitendrak07.netlify.app
 
 - 💬 Ask me about **REACT.js**
 
 - 📫 How to reach me **jitendrakkumar0701@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17aVHW5wCGneGlan5CZn6a4r7pTmDY5rv/view?usp=drive_link](https://drive.google.com/file/d/17aVHW5wCGneGlan5CZn6a4r7pTmDY5rv/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15GwhVgRc5zLsj2RwAit_ORfcqqBUZZxr/view]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
