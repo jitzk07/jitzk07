@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **jitendrakkumar0701@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15GwhVgRc5zLsj2RwAit_ORfcqqBUZZxr/view]
+- 📄 Know about my experiences https://drive.google.com/file/d/15GwhVgRc5zLsj2RwAit_ORfcqqBUZZxr/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
